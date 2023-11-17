@@ -6,14 +6,12 @@ Pronouns: She/Her - Ela/Dela
 
 <strong> [Português] </strong>
 <p align="left">   
-Meu nome é Letícia. Eu tenho 2 cachorros adoráveis. Sou brasileira (de Ribeirão Preto a 'terra do café'!), morando atualmente na Suécia, e venho criando e resolvendo bugs desde 2019.
-Com forte compromisso com a autoaprendizagem, mudei de finanças para tecnologia e agora sou Engenheira de Dados e Engenheira de Análise, também uma defensora da diversidade. 
+Meu nome é Letícia. Sou mãe de dois doguinhos adoráveis. Sou brasileira de Ribeirão Preto a 'terra do café', moro atualmente na Suécia e venho criando e resolvendo bugs desde 2019.
 </p>
 
 <strong> [English] </strong>
 <p align="left"> 
 I'm Letícia.  I have 2 lovely dogs. I'm a Brazilian (from Ribeirão Preto the 'coffee-land'!) based in Sweden, and I've been creating and solving bugs since 2019.
-With strong commitment to self-learning, I switched from finance to tech and now a I am Data Engineer and Analytics Enginner, also a diversity advocate.
 </p>
 
 
