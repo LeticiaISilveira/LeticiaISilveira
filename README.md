@@ -47,3 +47,5 @@ profile_overview_dict = {
 ## Social
 https://linktr.ee/lesilveira
 
+![Snake animation](https://github.com/leticiaisilveira/leticiaisilveira/blob/output/github-contribution-grid-snake.svg)
+
