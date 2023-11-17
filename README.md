@@ -4,7 +4,7 @@
 
 <strong> [Português] </strong>
 <p align="left">   
-Eu sou a Letícia. Sou mãe de dois doguinhos adoráveis. Sou brasileira de Ribeirão Preto a 'terra do café', moro atualmente na Suécia e venho criando e resolvendo bugs desde 2019.
+Eu sou a Letícia, mãe de dois doguinhos adoráveis, brasileira de Ribeirão Preto a 'terra do café', morando atualmente na Suécia e criando e resolvendo bugs desde 2019.
 </p>
 
 <strong> [English] </strong>
