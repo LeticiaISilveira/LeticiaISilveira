@@ -1,12 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/leticiaisilveira/LeticiaISilveira/master/github-hello.gif" alt="git gif" min-width="50px" max-width="50px" width="50px" align="center"> 
 
-Pronouns: She/Her - Ela/Dela
-
 <img src="https://raw.githubusercontent.com/leticiaisilveira/LeticiaISilveira/master/babies.jpeg" alt="ilustração de dois doguinhos fofos" min-width="350px" max-width="350px" width="350px" align="right">
 
 <strong> [Português] </strong>
 <p align="left">   
-Meu nome é Letícia. Sou mãe de dois doguinhos adoráveis. Sou brasileira de Ribeirão Preto a 'terra do café', moro atualmente na Suécia e venho criando e resolvendo bugs desde 2019.
+Eu sou a Letícia. Sou mãe de dois doguinhos adoráveis. Sou brasileira de Ribeirão Preto a 'terra do café', moro atualmente na Suécia e venho criando e resolvendo bugs desde 2019.
 </p>
 
 <strong> [English] </strong>
