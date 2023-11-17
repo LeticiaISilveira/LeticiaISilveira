@@ -16,7 +16,7 @@ I'm Letícia.  I have 2 lovely dogs. I'm a Brazilian (from Ribeirão Preto the '
 
 <div>
 <a href = "mailto:contato@leticia.ingrid.silveira"><img loading="lazy" src="https://img.shields.io/badge/GMAIL-%20-DD6387?logoColor=yDAFA&labelColor=yDAFA" target="_blank"></a>   
-<a href="https://www.linkedin.com/in/leticiaisilveira" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%20-79DAFA?logoColor=yDAFA&labelColor=yDAFA" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/leticia-silveira" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%20-79DAFA?logoColor=yDAFA&labelColor=yDAFA" target="_blank"></a>   
 </div>
 
 
