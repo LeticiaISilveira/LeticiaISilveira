@@ -12,6 +12,13 @@ Eu sou a Letícia, mãe de dois doguinhos adoráveis, brasileira de Ribeirão Pr
 I'm Letícia.  I have 2 lovely dogs. I'm a Brazilian (from Ribeirão Preto the 'coffee-land'!) based in Sweden, and I've been creating and solving bugs since 2019.
 </p>
 
+## Contact:
+
+<div>
+<a href = "mailto:contato@leticia.ingrid.silveira"><img loading="lazy" src="https://img.shields.io/badge/LINKEDIN-%20-79DAFA?logoColor=yDAFA&labelColor=yDAFA" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/leticiaisilveira" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%20-79DAFA?logoColor=yDAFA&labelColor=yDAFA" target="_blank"></a>   
+</div>
+
 
 ## Overview
 
