@@ -28,7 +28,7 @@ profile_overview_dict = {
     "name": "Letícia Silveira",
     "acknowledgements": "Data Engineer/Analytics Engineer",
     "languages": ["Python", "SQL", "Scala", "JavaScript"],
-    "Key Concepts": ["ETL/ELT", "Data Platform and Pipeline", "Data Warehouse", "Data Lake", "API", "Databases", "Web Scraping", "SQL", "No-SQL", "Batch", "Orchestration", "Data Modeling", "Data Quality", "Data Ingestion", "Data Transforming"],
+    "key_concepts": ["ETL/ELT", "Data Platform and Pipeline", "Data Warehouse", "Data Lake", "API", "Databases", "Web Scraping", "SQL", "No-SQL", "Batch", "Orchestration", "Data Modeling", "Data Quality", "Data Ingestion", "Data Transforming"],
     "tools": ["Airflow", "Spark", "Terraform", "AWS", "GCP", "Azure", "GIT", "Kafka", "Flink", "Apache Hive", "Hadoop", "Looker"]
 }
 ```
