@@ -38,8 +38,6 @@ profile_overview_dict = {
 
 ## Status
 
-**⭐ Estrelas recebidas nos meus repositórios (incluindo forks, sem minhas próprias estrelas):** <!-- profile-stars:start -->7<!-- profile-stars:end -->
-
 <a href="https://github.com/leticiaisilveira" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaisilveira&theme=dracula" alt="Linguagens usadas nos repositórios do GitHub"/>
 </a>
