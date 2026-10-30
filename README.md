@@ -12,6 +12,9 @@ Eu sou a Letícia, mãe de dois doguinhos adoráveis, brasileira de Ribeirão Pr
 I'm Letícia.  I have 2 lovely dogs. I'm a Brazilian (from Ribeirão Preto the 'coffee-land'!) based in Sweden, and I've been creating and solving bugs since 2019.
 </p>
 
+## Social
+https://linktr.ee/lesilveira
+
 ## Contact:
 
 <div>
@@ -35,16 +38,15 @@ profile_overview_dict = {
 
 ## Status
 
+**⭐ Estrelas recebidas nos meus repositórios (incluindo forks, sem minhas próprias estrelas):** <!-- profile-stars:start -->7<!-- profile-stars:end -->
+
 <a href="https://github.com/leticiaisilveira" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaisilveira&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaisilveira&theme=dracula" alt="Linguagens usadas nos repositórios do GitHub"/>
 </a>
 
-<a href="https://github.com/leticiaisilveira" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiaisilveira&show_icons=true&theme=dracula&line_height=27" alt="**LETICIA SILVEIRA** github stats"/>
+<a href="https://github.com/leticiaisilveira" title="atividade do perfil">
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaisilveira&theme=dracula" alt="Atividade do perfil do GitHub de Letícia Silveira"/>
 </a>
 <br>
-
-## Social
-https://linktr.ee/lesilveira
 
 <!--- ![Snake animation](https://github.com/leticiaisilveira/leticiaisilveira/blob/output/github-contribution-grid-snake.svg) -->
