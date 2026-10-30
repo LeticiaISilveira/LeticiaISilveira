@@ -40,11 +40,11 @@ profile_overview_dict = {
 
 
 <a href="https://github.com/leticiaisilveira" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaisilveira&theme=dracula" alt="Linguagens usadas nos repositórios do GitHub"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leticiaisilveira&theme=dracula&bg_color=262C36" alt="Linguagens usadas nos repositórios do GitHub"/>
 </a>
 
 <a href="https://github.com/leticiaisilveira" title="atividade do perfil">
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaisilveira&theme=dracula" alt="Atividade do perfil do GitHub de Letícia Silveira"/>
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaisilveira&theme=dracula&bg_color=262C36" alt="Atividade do perfil do GitHub de Letícia Silveira"/>
 </a>
 <br>
 
